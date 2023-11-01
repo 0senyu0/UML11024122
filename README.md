@@ -18,3 +18,13 @@
 “+”表示public、
 “-”表示private、
 “#”表示protected
+
+
+
+
+
+
+
+
+
+參考資料:https://www.zhihu.com/tardis/bd/art/267298708?source_id=1001
